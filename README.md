@@ -1,7 +1,8 @@
 # R-Based User Interface for Infertility Specialists
 By running this project, a user interface is displayed for clinicians and infertility specialists who would like to predict probability of IVF surgery using supervised model of Random Forest.
 # Usage
-Use your train and test dataset in .csv format to import in R environment. Note, your dataset must have the following features:
+Use your train and test dataset in .csv format to import in R environment. Note, your dataset must have the following features. Alternatively, you may check Table 1  in this [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5582146/).
+
 - Age of woman
 - Age of man
 - BMI
