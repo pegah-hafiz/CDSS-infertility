@@ -1,6 +1,6 @@
 openSpreadsheet_after <- function(button){
   
-  f.address <-"C:/Users/Pegah/Desktop/R application/test.csv"
+  f.address <-""
   
   data <- read.csv(f.address)
   
