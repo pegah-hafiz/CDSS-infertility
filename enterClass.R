@@ -1,10 +1,10 @@
 enterClass <- function(button){
   
-  f.address.train <-"C:/Users/Pegah/Desktop/R application/train.csv"
+  f.address.train <-""
   
-  f.address.test <-"C:/Users/Pegah/Desktop/R application/test.csv"
+  f.address.test <-""
   
-  f.address.missing <-"C:/Users/Pegah/Desktop/R application/missing.csv"
+  f.address.missing <-""
   
   data <- read.csv(f.address.test)
   
