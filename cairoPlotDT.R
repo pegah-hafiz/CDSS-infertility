@@ -6,7 +6,7 @@ cairoPlotDT <- function(button){
   
   library(cairoDevice)
   
-  f.address <- "C:/Users/Pegah/Desktop/R application/missing.csv"
+  f.address <- ""
   
   main.data<-read.csv(f.address, header=T)
   
