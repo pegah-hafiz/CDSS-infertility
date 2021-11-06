@@ -1,9 +1,9 @@
 predictResult <- function(button){
   
   
-  train.address <- "C:/Users/Pegah/Desktop/R application/train.csv"
+  train.address <- ""
   
-  test.address <- "C:/Users/Pegah/Desktop/R application/test.csv"
+  test.address <- ""
   
   data <- read.csv(train.address, header=T)
   
